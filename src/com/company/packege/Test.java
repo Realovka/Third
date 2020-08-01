@@ -2,6 +2,6 @@ package com.company.packege;
 
 public class Test {
     public  void test(){
-        System.out.println("пока");
+        System.out.println("привет");
     }
 }
